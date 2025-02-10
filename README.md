@@ -1,27 +1,23 @@
-### Olá, você! Bem vindo ao meu incrível perfil!
-<p> Meu nome é Mariane Souza!
+### Olá, você! Bem-vindo ao meu incrível perfil! 🚀
 
-<p> - 🔭 Faço Ciência da Computação na UFRPE.
-  <p><p><img loading="lazy" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ufrpe.br%2Fbr%2Fcontent%2Fmarca-e-identidade-visual&psig=AOvVaw0cWzpSXaISNyWnT_njcvIZ&ust=1693083630738000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICk-qDZ-IADFQAAAAAdAAAAABAD" width="40" height="40"/></p>
-[![Mariane's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Marianeesouza&show_icons=true&theme=radical)](https://github.com/Marianeesouza)
-<p> - 📫 How to reach me:
+<p> Meu nome é <strong>Mariane Souza</strong>! </p>
+
+- 🔭 Faço **Ciência da Computação** na UFRPE.  
+<p><img loading="lazy" src="https://www.ufrpe.br/sites/www.ufrpe.br/files/Marcas%20UFRPE-04.jpg" height="80"/></p>
+
+[![Mariane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marianeesouza&show_icons=true&theme=tokyonight)](https://github.com/Marianeesouza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marianeesouza&layout=compact)](https://github.com/Marianeesouza/github-readme-stats)
+
+### 📫 Como me encontrar:
 <div>
-<a href = "mailto:mariane.elisa@gmail.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:mariane.elisa@gmail.br">
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
-<p>- 😄 Pronouns: Ela/dela//She/her</p>    
-<p>- ⚡ Fun fact: Sou uma completa fã de pokémon! Gengar é o melhor pokémon, quem discorda está errado!(ง •̀_•́)ง E a pokémon company precisa urgentemente aumentar a qualidade dos últimos jogos... ૮(˶╥︿╥)ა </p>
 
-<!--
-**Marianeesouza/Marianeesouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Sobre mim:
+- 😄 **Pronomes:** Ela/dela // She/her  
+- ⚡ **Curiosidade:** Sou uma completa fã de **Pokémon**! Gengar é o melhor Pokémon, quem discorda está errado! (ง •̀_•́)ง  
+  - E a Pokémon Company precisa urgentemente aumentar a qualidade dos últimos jogos... ૮(˶╥︿╥)ა  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Obrigado por visitar meu perfil! 😊
