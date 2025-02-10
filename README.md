@@ -1,11 +1,9 @@
-### Olá, você! Bem vindo ao meu incrível perfil!
+![image](https://github.com/user-attachments/assets/86fd214d-ac52-4510-a56f-ee561631b601)### Olá, você! Bem vindo ao meu incrível perfil!
 <p> Meu nome é Mariane Souza!
 
-<p> - 🌱 Atualmente estou aprendendo Python e Java
-  <p><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"/>
 <p> - 🔭 Faço Ciência da Computação na UFRPE.
   <p><p><img loading="lazy" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ufrpe.br%2Fbr%2Fcontent%2Fmarca-e-identidade-visual&psig=AOvVaw0cWzpSXaISNyWnT_njcvIZ&ust=1693083630738000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICk-qDZ-IADFQAAAAAdAAAAABAD" width="40" height="40"/></p>
-  
+![Mariane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marianeesouza&show_icons=true&theme=radical)
 <p> - 📫 How to reach me:
 <div>
 <a href = "mailto:mariane.elisa@gmail.br"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
