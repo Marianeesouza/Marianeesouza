@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/86fd214d-ac52-4510-a56f-ee561631b601)### Olá, você! Bem vindo ao meu incrível perfil!
+### Olá, você! Bem vindo ao meu incrível perfil!
 <p> Meu nome é Mariane Souza!
 
 <p> - 🔭 Faço Ciência da Computação na UFRPE.
