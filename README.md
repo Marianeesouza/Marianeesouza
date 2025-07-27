@@ -18,7 +18,7 @@
 ### Minhas Habilidades
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,py,django,fastapi,figma,html,java,mongodb,mysql,nodejs,selenium,ts" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,py,django,fastapi,figma,java,mongodb,mysql,nodejs" />
   </a>
 </p>
 
