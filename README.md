@@ -1,22 +1,59 @@
-### Olá, você! Bem-vindo ao meu incrível perfil! 🚀
+<h1 align="center">Olá! Seja bem-vindo(a) ao meu perfil!</h1>
 
-<p> Meu nome é <strong>Mariane Souza</strong>! </p>
+<p align="center">Meu nome é <strong>Mariane Souza</strong> e sou estudante de Ciência da Computação na <strong>UFRPE</strong>.</p>
 
-- 🔭 Faço **Ciência da Computação** na UFRPE.  
-<p><img loading="lazy" src="https://www.ufrpe.br/sites/www.ufrpe.br/files/Marcas%20UFRPE-04.jpg" height="80"/></p>
+<p align="center">
+  <img src="https://www.ufrpe.br/sites/www.ufrpe.br/files/Marcas%20UFRPE-04.jpg" height="80" alt="Logo UFRPE"/>
+</p>
 
-[![Mariane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marianeesouza&show_icons=true&theme=tokyonight)](https://github.com/Marianeesouza/github-readme-stats)
-[![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Marianeesouza&layout=compact&theme=dracula)](https://github.com/Marianeesouza/github-readme-stats)
+---
 
-### 📫 Como me encontrar:
-<div>
-  <a href="mailto:mariane.elisa@ufrpe.br">
-    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+### Sobre mim
+
+- Atualmente curso **Ciência da Computação** na Universidade Federal Rural de Pernambuco (UFRPE).
+- Tenho paixão por **tecnologia**, **desenvolvimento de software** e **projetos criativos**.
+- Curto aprender novas ferramentas, frameworks e construir soluções que ajudem pessoas.
+  
+---
+### Minhas Habilidades
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,py,django,fastapi,figma,html,java,mongodb,mysql,nodejs,selenium,ts" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Marianeesouza">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marianeesouza&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marianeesouza&layout=compact&theme=dracula" alt="Top Linguagens"/>
   </a>
 </div>
 
-### 🌟 Sobre mim:
-- Sou uma completa fã de **Pokémon**! Gengar é o melhor Pokémon, quem discorda está errado! (ง •̀_•́)ง  
-  - E a Pokémon Company precisa urgentemente aumentar a qualidade dos últimos jogos... ૮(˶╥︿╥)ა  
+---
 
-✨ Obrigado por visitar meu perfil! 😊
+### Onde me encontrar
+
+<div>
+  <a href="mailto:mariane.elisa@ufrpe.br">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+<a href="https://www.linkedin.com/in/mariane-elisa-dos-santos-souza-0ba903327/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
+
+---
+
+### 🎮 Fun facts
+
+- Sou completamente viciada em **Pokémon** — e sim, o **Gengar** é o melhor de todos. Sem debates! 😤
+- Acho que a **Pokémon Company** poderia se esforçar um pouco mais nos jogos recentes... ૮(˶╥︿╥)ა
+
+---
+
+<p align="center">✨ Obrigada por visitar meu perfil! 😊</p>
